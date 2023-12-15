@@ -16,4 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "PubTest"
 include(":app")
 include(":mylibrary")
- 
+include(":mylibrary2")
